@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: REACT_APP_FIREBASE_API_KEY,
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "translator-bot-24299.firebaseapp.com",
   projectId: "translator-bot-24299",
   storageBucket: "translator-bot-24299.firebasestorage.app",

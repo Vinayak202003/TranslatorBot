@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyApG2IQ7uYg1gfDzS3aM3-Kzwc1g71qarc",
+  apiKey: "AIzaSyA2J6x8gvbBpuXrLXHR-yNsPvO4BXNXdtU",
   authDomain: "translator-bot-24299.firebaseapp.com",
   projectId: "translator-bot-24299",
   storageBucket: "translator-bot-24299.firebasestorage.app",
